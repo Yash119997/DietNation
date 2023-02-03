@@ -1,0 +1,11 @@
+main {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  text-align: center;
+}
+.leaflet-container {
+  width: 80%;
+  height: 35vh;
+  text-align: center;
+  margin: auto;
+}
